@@ -23,7 +23,7 @@ Functional Requirements:
 4. The users are presented with a grid that is empty and will be filled with graphics as the user plays. The positioning of the symbols X and O will be placed inside one square of the grid (centered) and another player is not able to use that square space. 
 5. A player is declared a winner if their respective symbols have three in a row on the grid either up, down, across, or diagonally.
 6. If all of the nine squares are filled, and there are no three symbols in a row, that concludes that the game is a tie and a banner saying tie pop up. 
-7.Once a player wins a winner banner pops up congratulating the winning player and a “better luck next time” to the losing player.
+7. Once a player wins a winner banner pops up congratulating the winning player and a “better luck next time” to the losing player.
 
 
 
