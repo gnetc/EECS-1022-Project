@@ -24,9 +24,7 @@ Functional Requirements:
 5. A player is declared a winner if their respective symbols have three in a row on the grid either up, down, across, or diagonally.
 6. If all of the nine squares are filled, and there are no three symbols in a row, that concludes that the game is a tie and a banner saying tie pop up. 
 7. Once a player wins a winner banner pops up congratulating the winning player and a “better luck next time” to the losing player.
-
-
-
-
-
-
+8. A player is declared a winner if their respective symbols have three in a row on the grid either up, down, across, or diagonally.
+9. If all of the nine squares are filled, and there are no three symbols in a row, that concludes that the game is a tie and a banner saying “Tie” will pop up. 
+10. Once a player wins a winner banner pops up congratulating the winning player and a “Better luck next time” to the losing player.
+11. Following the “Better luck next time” screen, the player will be given an option to retry or quit the game making them come back to the menu landing screen.
